@@ -2,6 +2,8 @@ connection: "@{CONNECTION_NAME}"
 
 include: "/lookml_dashboards/*"
 include: "/explores/*.explore"
+include: "/views/*.view"
+include: "/views/*/*.view"
 
 
 datagroup: daily {
