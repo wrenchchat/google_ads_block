@@ -1,19 +1,18 @@
-  "constants": {
-    "CONNECTION_NAME": {
-      "label": "Connection Name",
-      "value_constraint": "connection"
-    },
-    "GOOGLE_ADS_SCHEMA": {
-      "label": "Google Ads Schema Name"
-    },
-    "GOOGLE_ADS_CUSTOMER_ID": {
-    "label": "Customer ID from Google Ads"
-    }
+"constants": {
+  "CONNECTION_NAME": {
+    "label": "Connection Name",
+    "value_constraint": "connection"
   },
-  "models": [
-    {
-      "name": "google_ads",
-      "connection_constant": "CONNECTION_NAME"
-    }
-  ]
-}
+  "GOOGLE_ADS_SCHEMA": {
+    "label": "Google Ads Schema Name"
+  },
+  "GOOGLE_ADS_CUSTOMER_ID": {
+  "label": "Customer ID from Google Ads"
+  }
+},
+"models": [
+  {
+    "name": "google_ads",
+    "connection_constant": "CONNECTION_NAME"
+  }
+]
