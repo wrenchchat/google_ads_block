@@ -12,7 +12,7 @@
 },
 "models": [
   {
-    "name": "google_ads_block",
+    "name": "google_ads",
     "connection_constant": "CONNECTION_NAME"
   }
 ]
