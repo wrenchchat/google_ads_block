@@ -1,7 +1,7 @@
 project_name: "customer_gads"
 
 constant: CONNECTION_NAME {
-  value: "youfit"
+  value: "youfit-gyms"
   export: override_optional
 }
 
