@@ -21,7 +21,7 @@
   },
   "models": [
     {
-      "name": "block_google_ads_transfer_new_v2",
+      "name": "google_ads",
       "connection_constant": "CONNECTION_NAME"
     }
   ]
