@@ -1,4 +1,4 @@
-# project_name: "block-google-ads-transfer"
+# project_name: "google_ads_block"
 
 constant: CONNECTION_NAME {
   value: "youfit"
