@@ -1,4 +1,4 @@
-# project_name: "google_ads_block"
+project_name: "customer_gads"
 
 constant: CONNECTION_NAME {
   value: "youfit"
