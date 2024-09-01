@@ -1,12 +1,3 @@
-{
-  "label": "Google Ads - BQ Transfer",
-  "category_label": "Models",
-  "branding": {
-    "image_uri": "https://marketplace-api.looker.com/block-icons/google_icon.png",
-    "tagline": "Expand your insights by joining in external datasets, simplifying complex account hierarchies and streamlining currency data with the Looker Block for Google Ads.",
-    "badge": "Beta"
-  },
-
   "constants": {
     "CONNECTION_NAME": {
       "label": "Connection Name",
